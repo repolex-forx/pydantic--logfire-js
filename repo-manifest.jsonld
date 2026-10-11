@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-js/commit/95eca241f7849627751f175768cdcdcf57f6c527",
       "git:hexsha": "95eca241f7849627751f175768cdcdcf57f6c527",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "@pydantic/logfire-browser@0.25.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "@pydantic/logfire-browser@0.25.0",
+      "repolex:parsedAt": "2026-10-11T20:19:34.404058+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-js/commit/aafbe9da5c2d5664a78aaf3a99dac54bef74fe2a",
