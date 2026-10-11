@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "logfire-js",
+  "versions": [
+    {
+      "commit": "95eca241f7849627751f175768cdcdcf57f6c527",
+      "tag": "@pydantic/logfire-browser@0.25.0",
+      "parsed_at": "2026-10-11T20:19:34.404905+00:00"
+    }
+  ]
+}
